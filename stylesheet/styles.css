@@ -1,1 +1,36 @@
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(96, 157, 185);
+    position: sticky;
+    top: 0;
+    width: 100%;
+  }
+  
+  a {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+ 
+ a:last-child {
+     border-right:none;
+}
 
+  .topnav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color:#acb849;
+  }
+  

@@ -34,7 +34,48 @@
     background-color:#acb849;
   }
   
-  .cup {
- width: 100%;
- height:auto;
+.partone {
+  background-color: orange;
   }
+
+.parttwo {
+  background-color: green;
+}
+
+.bergen {
+  text-align: center;
+  background-color: grey;
+  border: left 100px;
+}
+
+.oslo {
+  text-align: center;
+  background-color:chocolate;
+}
+
+.trondheim {
+  text-align: center;
+  background-color: brown;
+}
+
+.kirkenes {
+  text-align: center;
+  background-color: rgb(104, 104, 170);
+}
+
+.socials {
+  display: block;
+  text-align:center;
+  list-style-type:none;
+}
+
+.socials .li {
+padding-top: ;
+}
+
+.aboutbody {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+

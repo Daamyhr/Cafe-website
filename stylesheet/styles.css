@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+  }
+
+
 .topnav {
     list-style-type: none;
     margin: 0;
@@ -69,9 +74,6 @@
   list-style-type:none;
 }
 
-.socials .li {
-padding-top: ;
-}
 
 .aboutbody {
   text-align: center;
@@ -79,3 +81,33 @@ padding-top: ;
 }
 
 
+.waitresses {
+display: block;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+}
+
+.cup {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+  }
+
+.threecups {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+  }
+    
+
+  .textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      resize: vertical;
+
+  }
